@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VLWingo
 - 👀 I’m interested in python development and data analysis
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning machine learning practices
 - 📫 How to reach me email: victorialwingo@gmail.com
 
 <!---
