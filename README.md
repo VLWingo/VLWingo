@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VLWingo
 - 👀 I’m interested in python development and data analysis
 - 🌱 I’m currently learning machine learning practices
-- 📫 How to reach me email: victorialwingo@gmail.com
+- 📫 How to reach me by email: victorialwingo@gmail.com
 
 <!---
 VLWingo/VLWingo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
